@@ -12,4 +12,6 @@ Objetivos :
 
 3. Construir um site utilizando HTML5, CSS3 e Bootstrap
 
+![Screenshot](https://github.com/waslinux/aula_bootstrap/blob/master/print.png?raw=true)
+
 
